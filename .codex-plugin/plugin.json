@@ -1,0 +1,19 @@
+{
+  "name": "digital-business-studio",
+  "version": "2.0.0",
+  "description": "Independent public digital-product and creator-partnership workflow package.",
+  "interface": {
+    "displayName": "Digital Business Studio",
+    "shortDescription": "Validate and build products",
+    "longDescription": "Reusable research, validation, product building and creator-partnership workflows. Not affiliated with Monetise or Synthesise AI.",
+    "developerName": "Independent project",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Research and rank five original business ideas.",
+      "Build an original prototype and demand experiment.",
+      "Compare a digital product with an approved creator collaboration."
+    ]
+  },
+  "skills": "./skills"
+}
